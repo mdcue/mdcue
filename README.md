@@ -1,14 +1,6 @@
 # Hi, I'm Muhammad Musaddiq 👋
 
-<p align="left">
-  <a href="https://linkedin.com/in/muhammad-musaddiq-2bb429444" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-   
-  <a href="mailto:msdqmovan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-musaddiq-2bb429444) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msdqmovan@gmail.com)
 
 I’m a Computer Science student who enjoys breaking down complex problems and building practical, low-overhead tools. I focus primarily on system-level utility applications, automated workflows, and data processing.
 
