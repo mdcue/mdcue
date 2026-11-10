@@ -23,11 +23,21 @@ I’m a Computer Science student who enjoys breaking down complex problems and b
 
 ### 📊 GitHub Stats & Activity
 
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdcue&show_icons=true&theme=dark&rank_icon=percentile)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdcue&show_icons=true&theme=dark&rank_icon=percentile" alt="Muhammad's GitHub Stats" />
+</p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdcue&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdcue&layout=compact&theme=dark" alt="Most Used Languages" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdcue&theme=dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdcue&theme=github-dark" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdcue&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
 
