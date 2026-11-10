@@ -24,11 +24,17 @@ I’m a Computer Science student who enjoys breaking down complex problems and b
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdcue&theme=github-dark&hide_border=true" width="100%" alt="Muhammad's Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdcue&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdcue&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-500%2B-brightgreen?style=for-the-badge&logo=github" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Primary%20Languages-Python%20%7C%20Rust-blue?style=for-the-badge&logo=python" alt="Languages" />
+  <img src="https://img.shields.io/badge/Main%20OS-Windows-0078D6?style=for-the-badge&logo=windows" alt="OS" />
+</p>
+
+<p align="center">
+  <img src="https://k轨迹-profile-trophy.vercel.app/?username=mdcue&theme=darkhub&no-frame=true&column=3" alt="GitHub Trophies" />
 </p>
 
 ---
