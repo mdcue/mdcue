@@ -1,5 +1,14 @@
 # Hi, I'm Muhammad Musaddiq 👋
 
+<p align="left">
+  <a href="https://linkedin.com/in/muhammad-musaddiq-2bb429444" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:msdqmovan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 I’m a Computer Science student who enjoys breaking down complex problems and building practical, low-overhead tools. I focus primarily on system-level utility applications, automated workflows, and data processing.
 
 ---
@@ -28,18 +37,7 @@ I’m a Computer Science student who enjoys breaking down complex problems and b
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-500%2B-brightgreen?style=for-the-badge&logo=github" alt="Total Contributions" />
-  <img src="https://img.shields.io/badge/Primary%20Languages-Python%20%7C%20Rust-blue?style=for-the-badge&logo=python" alt="Languages" />
-  <img src="https://img.shields.io/badge/Main%20OS-Windows-0078D6?style=for-the-badge&logo=windows" alt="OS" />
+  <img src="https://img.shields.io/badge/Contributions-500%2B-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Rust-blue?style=for-the-badge&logo=python&logoColor=white" alt="Stack" />
+  <img src="https://img.shields.io/badge/Focus-Desktop%20%26%20CLI%20Tools-orange?style=for-the-badge" alt="Focus" />
 </p>
-
-<p align="center">
-  <img src="https://k轨迹-profile-trophy.vercel.app/?username=mdcue&theme=darkhub&no-frame=true&column=3" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-- **LinkedIn:** [Muhammad Musaddiq](https://linkedin.com/in/muhammad-musaddiq-2bb429444)
-- **Email:** [msdqmovan@gmail.com](mailto:msdqmovan@gmail.com)
