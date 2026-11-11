@@ -8,7 +8,7 @@ I’m a Computer Science student who enjoys breaking down complex problems and b
 
 ### 🛠 Tech & Tools
 
-- **Languages:** Python, Rust, C/C++
+- **Languages:** Python, Rust, Java, JavaScript
 - **Frameworks & UI:** Tauri v2, Tkinter, HTML/CSS
 - **Tools & Data:** Git, Pandas, BeautifulSoup4, OpenPyXL, JSON/CSV Parsing
 
